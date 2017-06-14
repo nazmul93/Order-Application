@@ -1,0 +1,5 @@
+D:\OrderApp\Model\bin\Debug\Model.dll
+D:\OrderApp\Model\bin\Debug\Model.pdb
+D:\OrderApp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\OrderApp\Model\obj\Debug\Model.dll
+D:\OrderApp\Model\obj\Debug\Model.pdb

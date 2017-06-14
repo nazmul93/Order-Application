@@ -1,0 +1,11 @@
+D:\OrderApp\View\bin\Debug\View.dll
+D:\OrderApp\View\bin\Debug\View.pdb
+D:\OrderApp\View\bin\Debug\Controller.dll
+D:\OrderApp\View\bin\Debug\Model.dll
+D:\OrderApp\View\bin\Debug\Controller.pdb
+D:\OrderApp\View\bin\Debug\Model.pdb
+D:\OrderApp\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+D:\OrderApp\View\obj\Debug\View.UserView.resources
+D:\OrderApp\View\obj\Debug\View.csproj.GenerateResource.Cache
+D:\OrderApp\View\obj\Debug\View.dll
+D:\OrderApp\View\obj\Debug\View.pdb
